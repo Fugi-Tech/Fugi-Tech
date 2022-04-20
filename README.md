@@ -1,5 +1,6 @@
 
-#ETAPES DE PAIEMENT
+# ETAPES DE PAIEMENT
+
 NB: VOUS AUREZ BESOIN D'UNE CARTE BANCAIRE !!!
 
 -- Téléchargez trust wallet sur play store
