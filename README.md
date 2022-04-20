@@ -33,9 +33,12 @@ NB: VOUS AUREZ BESOIN D'UNE CARTE BANCAIRE !!!
 <img src="https://github.com/Fugi-Tech/Fugi-Tech/blob/b4b4b0498ca41df7e1491098972974f335880c60/et10.jpg">
 -- Revenez à l'écran d'accueil et cliquez sur 'Bitcoin'
 <img src="https://github.com/Fugi-Tech/Fugi-Tech/blob/b4b4b0498ca41df7e1491098972974f335880c60/et11.jpg">
+
 -- Cliquez sur 'Envoyer'
+<img src="https://github.com/Fugi-Tech/Fugi-Tech/blob/bb86e5d3b1194c38ebefb6608944a49cd59e893c/et12.jpg">
 
 -- Donner l'adresse du destinataire : bc1qe8um7q3yllhk89qslyjsr4w4kwg8rcxhgucr0j (copiez et collez cette adresse pour éviter les erreurs) et donnez le montant de la transaction en bitcoin (0.0013 BTC) puis cliquez sur 'Continuer'
+<img src="https://github.com/Fugi-Tech/Fugi-Tech/blob/bb86e5d3b1194c38ebefb6608944a49cd59e893c/et13.jpg">
 
 -- Terminez la transaction.
 
