@@ -7,6 +7,8 @@ NB: VOUS AUREZ BESOIN D'UNE CARTE BANCAIRE !!!
 <img src="https://github.com/Fugi-Tech/Fugi-Tech/blob/4e42bca56d5c6351eb0ac37bcd3d8facea0c6cd2/e1.jpg">
 
 -- Ouvrez l'application et suivez les étapes de création de compte
+<img src="https://github.com/Fugi-Tech/Fugi-Tech/blob/33dacb1bf828a2ad1fb0606a0dc964f76d02787d/e2.jpg">
+<img src="https://github.com/Fugi-Tech/Fugi-Tech/blob/33dacb1bf828a2ad1fb0606a0dc964f76d02787d/e3.jpg">
 
 -- Une fois votre compte créé vous verrez cet écran d'accueil, cliquez sur 'Acheter'
 
