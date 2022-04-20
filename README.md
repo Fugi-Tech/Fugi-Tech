@@ -4,6 +4,7 @@
 NB: VOUS AUREZ BESOIN D'UNE CARTE BANCAIRE !!!
 
 -- Téléchargez trust wallet sur play store
+<img src="e1">
 
 -- Ouvrez l'application et suivez les étapes de création de compte
 
