@@ -4,7 +4,7 @@
 NB: VOUS AUREZ BESOIN D'UNE CARTE BANCAIRE !!!
 
 -- Téléchargez trust wallet sur play store
-<img src="e1">
+<img src="https://github.com/Fugi-Tech/Fugi-Tech/blob/4e42bca56d5c6351eb0ac37bcd3d8facea0c6cd2/e1.jpg">
 
 -- Ouvrez l'application et suivez les étapes de création de compte
 
