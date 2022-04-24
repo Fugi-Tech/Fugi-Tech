@@ -31,6 +31,7 @@ NB: VOUS AUREZ BESOIN D'UNE CARTE BANCAIRE !!!
 <img src="https://github.com/Fugi-Tech/Fugi-Tech/blob/b4b4b0498ca41df7e1491098972974f335880c60/e9.jpg">
 
 <img src="https://github.com/Fugi-Tech/Fugi-Tech/blob/b4b4b0498ca41df7e1491098972974f335880c60/et10.jpg">
+
 -- Revenez à l'écran d'accueil et cliquez sur 'Bitcoin'
 <img src="https://github.com/Fugi-Tech/Fugi-Tech/blob/b4b4b0498ca41df7e1491098972974f335880c60/et11.jpg">
 
